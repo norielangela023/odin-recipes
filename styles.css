@@ -17,3 +17,7 @@ th {
 td {
     color: rgb(155,62,57);
 }
+table {
+    float:left;
+    width:70%;
+}
