@@ -4,18 +4,22 @@ body {
 }
 p {
     color:rgb(34,18,31);
+    font-family: sans-serif;
 }
 h1 {
     color:rgb(155,62,57);
+    font-family: Arial, Helvetica, sans-serif;
 }
 h2{
     color:rgb(229,102,49);
+    font-style: italic;
 }
 th {
     color:rgb(53,29,43);
 }
 td {
     color: rgb(155,62,57);
+    font-family: monospace;
 }
 ul {
     float:right:
