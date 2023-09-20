@@ -26,3 +26,9 @@ ul {
     margin-right: 10px;
     width: 15%;
 }
+.home-picture {
+    border: ridge rgb(34,18,31);
+}
+.food-picture {
+    border: solid rgb(34,18,31);
+}
