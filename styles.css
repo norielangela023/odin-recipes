@@ -1,4 +1,12 @@
 /*styles*/
+/* color catalog
+mimosa rgb(225,216,89)
+tangerine rgb(249,151,52)
+flame rgb(229,102,49)
+chestnut rgb(155,62,57)
+dark brown rgb(53,29,43)
+black rgb(34,18,31)
+*/
 body {
     background-color:rgb(255,216,89);
 }
@@ -23,12 +31,11 @@ td {
 }
 ul {
     float:right:
-    margin-right: 10px;
     width: 15%;
 }
 .home-picture {
     border: ridge rgb(34,18,31);
 }
 .food-picture {
-    border: solid rgb(34,18,31);
+    border: double rgb(34,18,31);
 }
