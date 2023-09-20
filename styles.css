@@ -34,8 +34,8 @@ ul {
     width: 15%;
 }
 .home-picture {
-    border: ridge rgb(34,18,31);
+    border: ridge rgb(155,62,57);
 }
 .food-picture {
-    border: double rgb(34,18,31);
+    border: double rgb(155,62,57);
 }
