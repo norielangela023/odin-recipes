@@ -44,6 +44,6 @@ ul {
 working on adding grouping to attrubutes in CSS
 */
 .home-picture, .food-picture {
-    border: ridgewsweee rgb(155,62,57);
+    border: ridge rgb(155,62,57);
     float: left;
 }
